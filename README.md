@@ -8,3 +8,4 @@ source of inspiration https://www.rcpano.net/2020/04/09/how-to-make-6-channel-ra
 
 
 ver2 transmitter: attempt to fix joystick issue, use a computer keyboard and python to send serial data to arduino nano and then transmitt them to the receiver using the nrf24
+![271921723_1417079458707755_8588626153284196107_n](https://user-images.githubusercontent.com/34170966/150932029-b5f3b6a2-bc73-4bd4-8bc3-4430e5384eb1.jpg)
